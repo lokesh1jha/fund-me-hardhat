@@ -17,9 +17,9 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
-cd hardhat-fund-me-fcc
-yarn
+git clone https://github.com/lokesh1jha/fund-me-hardhat
+cd fund-me-hardhat
+yarn 
 ```
 
 ## Typescript
